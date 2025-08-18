@@ -20,9 +20,7 @@ I’m passionate about problem-solving and building projects that improve my cod
 ## 🚀 Projects  
 
 ### 📌 [Gesture Volume Control](https://github.com/ratnesh-12/gesture-volume)  
-An OpenCV-based project that controls system volume using hand gestures.  
-
-*(Check my pinned repositories for more!)*  
+An OpenCV-based project that controls system volume using hand gestures.   
 
 ---
 
