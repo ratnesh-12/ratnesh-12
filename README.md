@@ -2,7 +2,7 @@
 
 🎓 Second-year Engineering Student 
 
-I’m passionate about problem-solving and building projects that improve my coding and logical thinking skills. Currently, I’m focusing on strengthening my skills in **Python, C/C++, and MySQL** while exploring software development projects.  
+I’m passionate about problem-solving and building projects that improve my coding and logical thinking skills. Currently, I’m focusing on strengthening my skills in **Python, C/C++, and MySQL**. 
 
 ---
 
@@ -40,6 +40,6 @@ An OpenCV-based project that controls system volume using hand gestures.
 
 ⭐ *Check out my repositories and feel free to collaborate or give feedback!*  
 
-<p align="right">  
+<p align="left">  
   <img src="https://komarev.com/ghpvc/?username=ratnesh-12&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" />  
 </p>
