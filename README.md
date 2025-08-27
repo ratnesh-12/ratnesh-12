@@ -39,3 +39,7 @@ An OpenCV-based project that controls system volume using hand gestures.
 ---
 
 ⭐ *Check out my repositories and feel free to collaborate or give feedback!*  
+
+<p align="right">  
+  <img src="https://komarev.com/ghpvc/?username=ratnesh-12&label=Profile%20Views&color=blue&style=flat-square" alt="Profile views" />  
+</p>
