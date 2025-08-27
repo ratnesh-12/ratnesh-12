@@ -1,6 +1,6 @@
 # Hi, I'm Ratnesh 👋  
 
-🎓 Second-year Engineering Student 
+🎓 Second-year Engineering Undergrad
 
 I’m passionate about problem-solving and building projects that improve my coding and logical thinking skills. Currently, I’m focusing on strengthening my skills in **Python, C/C++, and MySQL**. 
 
