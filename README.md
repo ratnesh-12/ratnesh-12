@@ -26,7 +26,7 @@ An OpenCV-based project that controls system volume using hand gestures.
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratnesh-12&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratnesh-12&show_icons=true&theme=tokyonight&hide_rank=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnesh-12&layout=compact&theme=tokyonight)  
 
 ---
