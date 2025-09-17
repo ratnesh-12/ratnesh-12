@@ -19,9 +19,6 @@ Currently I'm improving my coding and logical thinking skills in **Python, C/C++
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ratnesh-12&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ratnesh-12&layout=compact&theme=tokyonight)
 
 
 ---
