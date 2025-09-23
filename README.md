@@ -2,7 +2,7 @@
 
 🎓 Second-year Engineering Undergrad
 
-Currently I'm improving my coding and logical thinking skills in **Python, C/C++**. 
+Currently I'm improving my programming and logical thinking skills in **Python, C/C++**. 
 
 ---
 
