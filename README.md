@@ -1,4 +1,4 @@
-#                                                                                        Hi, I'm Ratnesh 👋  
+#<p align="center">Hi, I'm Ratnesh 👋</p>
 
 🎓 Second-year Engineering Undergrad
 
