@@ -16,7 +16,11 @@ Currently I'm improving my programming and logical thinking skills in **Python, 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+## 📈 Contribution Graph
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ratnesh-12&theme=github)
+
+---
 ## 📫 Connect with Me  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ratnesh-k-2288ba2ba/)  
