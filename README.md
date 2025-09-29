@@ -16,9 +16,16 @@ Currently I'm improving my programming and logical thinking skills in **Python, 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-## 📈 Contribution Graph
+## ⚡ Profile Activity
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ratnesh-12&theme=github)
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ratnesh-12&theme=github_dark)
+
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ratnesh-12&theme=github_dark)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ratnesh-12&theme=github_dark)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ratnesh-12&theme=github_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ratnesh-12&theme=github_dark)
 
 ---
 ## 📫 Connect with Me  
