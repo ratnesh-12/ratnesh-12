@@ -20,6 +20,10 @@ Currently I'm improving my programming and logical thinking skills in **Python, 
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ratnesh-12&theme=github_dark)
 
+## ⚡ GitHub Stats
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ratnesh-12&theme=github-dark&bg_color=0d1117&color=00ffb3&line=00ffb3&point=ffffff&area=true)
+
 ---
 ## 📫 Connect with Me  
 
